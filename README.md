@@ -1,15 +1,13 @@
 ### Hi there 👋
+![hello](https://views.whatilearened.today/views/github/whizzcyf/deplives.svg)
+
 ![](https://github-readme-stats.vercel.app/api?username=whizzcyf&show_icons=true&theme=transparent)
 
 ![Visitor Count](https://profile-counter.glitch.me/whizzcyf/count.svg)
 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whizzcyf&layout=compact&theme=tokyonight)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=whizzcyf&theme=dracula)
-
-![hello](https://views.whatilearened.today/views/github/DHDAXCW/deplives.svg)
 
 <p align="center">
     <a href="https://github.com/whizzcyf">
@@ -17,7 +15,7 @@
     </a>
 </p>
 
-
+![](https://github-readme-activity-graph.cyclic.app/graph?username=whizzcyf&theme=dracula)
 
 <!--
 **whizzcyf/whizzcyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
