@@ -1,6 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=你的Github用户名e&show_icons=true&theme=transparent)
-
+![](https://github-readme-stats.vercel.app/api?username=whizzcyf&show_icons=true&theme=transparent)
 
 <!--
 **whizzcyf/whizzcyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
